@@ -1,1 +1,1 @@
-print("This is the python test script.  Let's see how we call this. \n")
+print("This is the _new_ python script and this is the idea... \n")
